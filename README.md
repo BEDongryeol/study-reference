@@ -1,8 +1,14 @@
 # Bookmark
 
 ## DataBase
-- [데이터베이스 튜닝 (DB Tuning)](http://blog.skby.net/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%9C%EB%8B%9D-db-tuning/)
+### H2
+- [H2 Database 설치, 서버 실행, 접속 방법](https://atoz-develop.tistory.com/entry/H2-Database-%EC%84%A4%EC%B9%98-%EC%84%9C%EB%B2%84-%EC%8B%A4%ED%96%89-%EC%A0%91%EC%86%8D-%EB%B0%A9%EB%B2%95)
+### JPA
+- [\[JPA\] 상속관계 매핑 전략(@Inheritance, @DiscriminatorColumn)](https://ict-nroo.tistory.com/128)
+### 모델링
 - [애그리게잇 하나에 리파지토리 하나](https://www.popit.kr/%EC%97%90%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9E%87-%ED%95%98%EB%82%98%EC%97%90-%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%ED%95%98%EB%82%98/)
+### 튜닝
+- [데이터베이스 튜닝 (DB Tuning)](http://blog.skby.net/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%9C%EB%8B%9D-db-tuning/)
 
 ## Design Pattern
 - [\[디자인패턴\] MVC, MVP, MVVM 비교](https://beomy.tistory.com/43)
@@ -16,9 +22,6 @@
 ## Java
 - [이미지를 BLOB 형태로 DB에 저장하기](https://logical-code.tistory.com/103)
 - [자바 직렬화 - Java Serialization](https://huisam.tistory.com/entry/javaserialization)
-
-## JPA
-- [\[JPA\] 상속관계 매핑 전략(@Inheritance, @DiscriminatorColumn)](https://ict-nroo.tistory.com/128)
 
 ## Spring
 - [\[Spring\] Post 요청과 Content-Type의 관계](https://blog.naver.com/PostView.nhn?blogId=writer0713&logNo=221853596497&redirect=Dlog&widgetTypeCall=true&directAccess=false)
